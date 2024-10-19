@@ -1,4 +1,4 @@
-# Security Camera Design Project
+# Security Camera Design Project - Designed with SOLIDWORKS
 
 ## Project Overview
 
