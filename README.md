@@ -18,12 +18,14 @@ This project focuses on the design and development of an inexpensive network-con
 ### Task 1: Concept Sketches
 
 
-1. **Orthographic Sketch**: 
+1. **Orthographic Sketch**:
+   
    - Draw a front view of the complete assembly.
    - Use unruled paper and follow orthographic drawing conventions.
    - Include author’s name, student number, and date.
   
-2. **Isometric Sketch**: 
+2. **Isometric Sketch**:
+   
    - Draw the complete assembly in isometric view.
    - Ensure the isometric axis is laid out correctly.
    - Use unruled paper and adhere to isometric drawing conventions.
@@ -31,6 +33,7 @@ This project focuses on the design and development of an inexpensive network-con
 ### Task 2: CAD Models
 
 - **SOLIDWORKS Modeling**:
+  
   - Create individual part models for each component of the security camera design.
   - Estimate the total weight of the casing and ensure it meets the design requirement of less than 150 g.
   - Generate isometric view drawings of each part, labeling components clearly.
@@ -40,12 +43,13 @@ This project focuses on the design and development of an inexpensive network-con
 ### Task 3: Working Drawings & Complete Project
 
 - **Final Deliverables**:
+  
   - Include a zip file containing all SOLIDWORKS parts and assemblies.
   - Prepare a comprehensive report in a single PDF format that includes:
     1. A pictorial view of the design.
-    3. **Working Drawings**: Detailed drawings of all parts with necessary dimensions, tolerances, and title blocks.
-    4. **Pictorial Views**: Isometric and partial views of the complete assembly.
-    5. **Assembly Drawing**: An exploded view with a Bill of Materials (BOM) specifying material for each part.
+    2. **Working Drawings**: Detailed drawings of all parts with necessary dimensions, tolerances, and title blocks.
+    3. **Pictorial Views**: Isometric and partial views of the complete assembly.
+    4. **Assembly Drawing**: An exploded view with a Bill of Materials (BOM) specifying material for each part.
 
 ## Design Requirements
 
