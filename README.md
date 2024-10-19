@@ -37,7 +37,7 @@ This project focuses on the design and development of an inexpensive network-con
   - Assemble all designed parts and the provided components into a single assembly model in SOLIDWORKS.
   - Create a SOLIDWORKS drawing of the assembly with a note indicating the calculated casing weight.
 
-### Task 3: Working Drawings
+### Task 3: Working Drawings & Complete Project
 
 - **Final Deliverables**:
   - Include a zip file containing all SOLIDWORKS parts and assemblies.
